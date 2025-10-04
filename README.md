@@ -419,7 +419,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
     </a>
   </p>
   
-  <h3>💝 Made with ❤️ by <strong>Vignesh B S</strong></h3>
+  <h3>💝 Made by <strong>Vignesh B S</strong></h3>
   <p><em>Your personal AI friend who can keep a record of you</em></p>
   
   <p>
@@ -432,5 +432,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 <div align="center">
-  <p><em>© 2024 MindMate. All rights reserved. | Made with ❤️ for mental wellness</em></p>
+  <p><em>© 2025 MindMate. All rights reserved. | Made for mental wellness and personal journal </em></p>
 </div>
