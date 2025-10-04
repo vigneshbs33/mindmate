@@ -127,29 +127,43 @@ The app works perfectly offline, but you can enhance it with AI features:
   <table>
     <tr>
       <td align="center">
-        <img src="assets/screenshots/home.png" alt="Home Dashboard" width="200">
-        <br><b>🏠 Home Dashboard</b>
-        <br>Your personal overview
+        <img src="assets/screenshots/welcome_page.png" alt="Welcome Screen" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <br><b>🎉 Welcome Screen</b>
+        <br>Beautiful onboarding experience
       </td>
       <td align="center">
-        <img src="assets/screenshots/journal.png" alt="Journal Screen" width="200">
-        <br><b>📝 Smart Journaling</b>
-        <br>Write, speak, and reflect
+        <img src="assets/screenshots/home-page.png" alt="Home Dashboard" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <br><b>🏠 Home Dashboard</b>
+        <br>Your personal overview
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/screenshots/mate.png" alt="AI Mate" width="200">
+        <img src="assets/screenshots/journal_page.png" alt="Journal Screen" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <br><b>📝 Smart Journaling</b>
+        <br>Write, speak, and reflect
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/mate-page.png" alt="AI Mate" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <br><b>🤖 AI Mate</b>
         <br>Your AI companion
       </td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="assets/screenshots/tasks.png" alt="Task Management" width="200">
+        <img src="assets/screenshots/task_page.png" alt="Task Management" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <br><b>✅ Smart Tasks</b>
         <br>AI-generated tasks
       </td>
+      <td align="center">
+        <img src="assets/screenshots/settings_page.png" alt="Settings Screen" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <br><b>⚙️ Settings</b>
+        <br>Customize your experience
+      </td>
     </tr>
   </table>
+  
+  <p><em>📸 All screenshots show the actual MindMate app in action</em></p>
 </div>
 
 ---
