@@ -1,0 +1,58 @@
+name: mindmate
+description: Offline-first mental health journal + tasks + AI insights (Gemini)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter: { sdk: flutter }
+  flutter_localizations: { sdk: flutter }
+  cupertino_icons: ^1.0.8
+  # State management
+  flutter_riverpod: ^2.5.1
+  # Local DB
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  # Secure storage / biometrics
+  flutter_secure_storage: ^9.0.0
+  local_auth: ^2.3.0
+  # Notifications
+  flutter_local_notifications: ^17.2.3
+  timezone: ^0.9.4
+  # Voice
+  speech_to_text: ^6.5.0
+  # File and path
+  path_provider: ^2.1.4
+  share_plus: ^10.0.2
+  # HTTP for Gemini
+  http: ^1.2.2
+  # Charts
+  fl_chart: ^0.69.0
+  # JSON
+  json_annotation: ^4.9.0
+  # Intl
+  intl: ^0.20.2
+  # Media
+  image_picker: ^1.1.2
+  # Calendar
+  table_calendar: ^3.1.2
+  # PDF
+  pdf: ^3.10.7
+  # Utils
+  uuid: ^4.5.1
+
+dev_dependencies:
+  flutter_test: { sdk: flutter }
+  flutter_lints: ^4.0.0
+  # Code generation not required; adapters and serializers are handwritten
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/quotes.json
+    - assets/icons/
+    - assets/app-logo.png
+
+
